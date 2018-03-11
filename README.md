@@ -25,3 +25,6 @@ Functionalities:  1. Data Storage: a. All Users Data along with their respective
  Result: We made Both the webapp and the android app. for the Problem Statement. 
  
  Conclusion: Web App and android app is made and which is connected to the common database. 
+
+
+Android app is developed in Android studio and web is developed in PyCharm.
