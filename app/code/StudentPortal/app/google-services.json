@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "235993205168",
+    "firebase_url": "https://studentcare-8e935.firebaseio.com",
+    "project_id": "studentcare-8e935",
+    "storage_bucket": "studentcare-8e935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235993205168:android:63c21cd2a4d71262",
+        "android_client_info": {
+          "package_name": "com.example.vibhor.studentcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235993205168-5fc8lcoi3bodpg8po9nt5q7sm4pufkj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibhor.studentcare",
+            "certificate_hash": "660a20f13ed65effb46abfede1eb5eece9ce69c2"
+          }
+        },
+        {
+          "client_id": "235993205168-fhi6tlocvsshh7n4ksvlv212845kec81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_wR-wpcrLmPt9qfZMsFSvcQGNfeESW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235993205168-fhi6tlocvsshh7n4ksvlv212845kec81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235993205168:android:d5599f7bc64c43bd",
+        "android_client_info": {
+          "package_name": "com.example.ashutosh.studentportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235993205168-qarfg83pu651esso16lmrhbnkf4v215f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashutosh.studentportal",
+            "certificate_hash": "bb50080c8468ded8695aca5d66a6af93aa21fed0"
+          }
+        },
+        {
+          "client_id": "235993205168-fhi6tlocvsshh7n4ksvlv212845kec81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_wR-wpcrLmPt9qfZMsFSvcQGNfeESW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235993205168-fhi6tlocvsshh7n4ksvlv212845kec81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
