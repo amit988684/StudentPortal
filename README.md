@@ -1,4 +1,4 @@
-# StudentPortal
+# StudentPortal WebApp and Android App
 
 Introduction :  Student Education  Portal (WEBAPP AND THE ANDROID APP) 
 
